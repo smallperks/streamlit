@@ -134,7 +134,7 @@ users to focus on the content in your app while still having access to UI
 controls.
 
 For example, if you want to add a selectbox and a slider to a sidebar, just
-use `st.sidebar.slider` and `st.siderbar.selectbox` instead of `st.slider` and
+use `st.sidebar.slider` and `st.sidebar.selectbox` instead of `st.slider` and
 `st.selectbox`:
 
 ```python
